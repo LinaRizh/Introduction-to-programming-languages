@@ -1,4 +1,4 @@
-﻿Console.Write("Введите имя полтзователя: ");
+﻿Console.Write("Введите имя пользователя: ");
 string username = Console.ReadLine();
 
 if (username.ToLower() == "маша")
